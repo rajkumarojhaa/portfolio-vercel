@@ -1,0 +1,188 @@
+{
+  "templateId": "tech",
+  "primaryColor": "#3b82f6",
+  "accentColor": "#8b5cf6",
+  "portfolioData": {
+    "personal": {
+      "name": "Rajkumar Ojha",
+      "title": "Software Developer",
+      "email": "rajkumarojha532@gmail.com",
+      "location": "Noida",
+      "shortBio": "A frontend developer who builds clean, scalable, and production-ready web applications with a sharp eye for detail and user experience. Focused on writing code that is not just functional but maintainable, performant, and built to last in real-world conditions.",
+      "bio": "I'm a frontend developer passionate about turning complex problems into simple, elegant interfaces. I work primarily with React and modern JavaScript, building everything from dynamic UIs to real-time data-driven applications. I care deeply about code quality, performance, and the small details that separate a good product from a great one. When I'm not writing code, I'm thinking about how to write it better."
+    },
+    "seo": {},
+    "social": {
+      "github": "https://github.com/rajkumarojhaa"
+    },
+    "skills": [
+      "HTML",
+      "CSS",
+      "TAILWIND CSS",
+      "REACT.JS",
+      "NEXT.JS",
+      "ShadCN/UI",
+      "Bootstrap",
+      "JavaScript",
+      "GitHub"
+    ],
+    "projects": [
+      {
+        "id": "e247f4f3-b312-4146-8753-e55984746cc7",
+        "title": "Tools-Hub-v2",
+        "description": "GitHub repository: rajkumarojhaa/Tools-Hub-v2",
+        "image": "",
+        "tags": [],
+        "github": "https://github.com/rajkumarojhaa/Tools-Hub-v2",
+        "demo": "https://tools-hub-v2.vercel.app",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "6ae4856c-4638-4860-b2f3-dbed4c139343",
+        "title": "Raj-portfolio",
+        "description": "GitHub repository: rajkumarojhaa/Raj-portfolio",
+        "image": "",
+        "tags": [],
+        "github": "https://github.com/rajkumarojhaa/Raj-portfolio",
+        "demo": "https://rajportfolio-beta.vercel.app",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "5aecfd99-52c8-4fcd-b3a3-ee72a22fcb37",
+        "title": "Job-Scan",
+        "description": "Visit the app",
+        "image": "",
+        "tags": [],
+        "github": "https://github.com/rajkumarojhaa/Job-Scan",
+        "demo": "https://job-scan-frontend.onrender.com/",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "b6f3f5d0-ba5a-44f8-8626-96de975a000d",
+        "title": "video-downloader",
+        "description": "GitHub repository: rajkumarojhaa/video-downloader",
+        "image": "",
+        "tags": [],
+        "github": "https://github.com/rajkumarojhaa/video-downloader",
+        "demo": "https://quick-save-kappa.vercel.app",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "58d39743-ddc5-4030-9eca-cd4e5ea4a514",
+        "title": "Debug-Diaries",
+        "description": "GitHub repository: rajkumarojhaa/Debug-Diaries",
+        "image": "",
+        "tags": [],
+        "github": "https://github.com/rajkumarojhaa/Debug-Diaries",
+        "demo": "https://debug-diaries.vercel.app",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "e98376d7-7b50-45c7-9d90-c0ff949bb50a",
+        "title": "Tour-Travel",
+        "description": "GitHub repository: rajkumarojhaa/Tour-Travel",
+        "image": "",
+        "tags": [],
+        "github": "https://github.com/rajkumarojhaa/Tour-Travel",
+        "demo": "https://travelease-blue.vercel.app",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "f50e4881-c177-45ef-ad82-0bf3b2ef1180",
+        "title": "MyMovie",
+        "description": "GitHub repository: rajkumarojhaa/MyMovie",
+        "image": "",
+        "tags": [],
+        "github": "https://github.com/rajkumarojhaa/MyMovie",
+        "demo": "https://id-dashboard-brown.vercel.app",
+        "featured": false,
+        "visible": true
+      }
+    ],
+    "experience": [
+      {
+        "company": "Dezzex technologies",
+        "role": "Frontend Developer",
+        "period": "2025 - Present",
+        "description": "I am the lead frontend developer at the dezzex technologies and handling the full frontend on the camex project.",
+        "current": true,
+        "id": "98c5ae79-631e-4210-86f4-1c5a0533487e"
+      },
+      {
+        "company": "TechSimPlus",
+        "role": "Full Stack Developer",
+        "period": "July 2024 - December 2024",
+        "description": "Full Stack developer at this company and design and developed the exam taking software for the same company .",
+        "current": false,
+        "id": "44e63096-07ec-4c38-a4a0-efab1f523396"
+      }
+    ],
+    "education": [
+      {
+        "institution": "LNCT UNIVERSITY",
+        "degree": "MCA",
+        "period": "September 2022 - June 2024",
+        "description": "",
+        "id": "4116834a-8027-42a2-9669-00e3328b1f77"
+      },
+      {
+        "institution": "A.S.COLLEGE, DEOGHAR",
+        "degree": "Bachelor of Computer Applications",
+        "period": "July 2018 – November 2021",
+        "description": "",
+        "id": "9e47c970-fb3e-4ab8-be91-8e56d3bf3bd8"
+      }
+    ],
+    "sectionConfig": [
+      {
+        "id": "hero",
+        "type": "hero",
+        "title": "Hero Section",
+        "visible": true,
+        "content": {
+          "heroStyle": "hero-immersive-dark",
+          "immersiveBadge": "Frontend Developer"
+        }
+      },
+      {
+        "id": "about",
+        "type": "about",
+        "title": "About Section",
+        "visible": true,
+        "content": {
+          "text": "I'm a frontend developer passionate about turning complex problems into simple, elegant interfaces. I work primarily with React and modern JavaScript, building everything from dynamic UIs to real-time data-driven applications. I care deeply about code quality, performance, and the small details that separate a good product from a great one. When I'm not writing code, I'm thinking about how to write it better.",
+          "aboutStyle": "about-typewriter"
+        }
+      },
+      {
+        "id": "skills",
+        "type": "skills",
+        "title": "Skills Section",
+        "visible": true,
+        "content": {
+          "headline": "Tech Stack",
+          "techStackStyle": "tech-marquee"
+        }
+      }
+    ]
+  },
+  "sectionStyles": {
+    "projects": "cards-glass",
+    "experience": "timeline-modern",
+    "education": "timeline-split"
+  },
+  "sectionOrder": [
+    "projects",
+    "experience",
+    "education"
+  ],
+  "navbarStyle": "nav-solid",
+  "footerStyle": "footer-social",
+  "heroStyle": "hero-immersive-dark"
+}
